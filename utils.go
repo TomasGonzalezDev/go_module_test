@@ -1,4 +1,4 @@
-package gomoduletest
+package main
 
 import "fmt"
 
